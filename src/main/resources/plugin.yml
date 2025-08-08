@@ -1,0 +1,8 @@
+name: maze
+version: '1.0'
+main: maze.Maze
+api-version: '1.21'
+commands:
+  미로생성:
+    description: 미로를 생성합니다.
+    usage: /미로생성 [가로] [세로] [블록]
